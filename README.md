@@ -1,6 +1,6 @@
 <div align="center">
 
-### 📚 Books 📚
+## 📚 Books 📚
   
 A compilation of books found on the internet
 
@@ -19,6 +19,8 @@ A compilation of books found on the internet
 
 | I highly recommend reading these books to complement: [How to Win Friends and Influence People](https://www.amazon.es/How-win-friends-influence-people/dp/0091906814/ref=pd_bxgy_d_sccl_2/260-5458185-0589034?pd_rd_w=Tl3uM&content-id=amzn1.sym.751f6d45-2e74-409b-8d49-b8a4d642cff2&pf_rd_p=751f6d45-2e74-409b-8d49-b8a4d642cff2&pf_rd_r=2Z9EKWMXCTM35P6C25SA&pd_rd_wg=gv6GR&pd_rd_r=ddab661a-eb3f-4063-bd5d-8b6a4c2eca38&pd_rd_i=0091906814&psc=1)(Amazon) |
 |---|
+
+3. [Contagious: Why Things Catch On](https://github.com/SrVladyslav/Books/blob/main/Psychology/Daniel_kahneman_Thinking_Fast_and_Slow.epub) - Berger Jonah
 
 ---
 
